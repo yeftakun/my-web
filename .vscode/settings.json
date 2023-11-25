@@ -1,0 +1,9 @@
+{
+    "window.zoomLevel": 0,
+    "editor.fontSize": 14,
+    "files.autoSave": "afterDelay",
+    "liveServer.settings.fullReload": true,
+    "liveServer.settings.wait": 10,
+    "liveServer.settings.CustomBrowser": "chrome",
+    "editor.wordWrap": "on"
+}
